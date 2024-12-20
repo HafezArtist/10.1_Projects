@@ -1,2 +1,2 @@
-# Calculator
-Hadis Hafez Calculator
+# Calculator And Projects
+Hadis Hafez Calculator and Projects
